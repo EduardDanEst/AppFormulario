@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="fmrConfirmar">Confirmar Datos</string>
+
+    <string name="tituloForm">Datos</string>
+    <string name="nombre">Nombres:</string>
+    <string name="fechaNac">Fecha Nacimiento:</string>
+    <string name="telefono">Telefono:</string>
+    <string name="email">Email:</string>
+    <string name="descripcion">Descripcion:</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="btnEditar">Editar</string>
+
+
+</resources>
